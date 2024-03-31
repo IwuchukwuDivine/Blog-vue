@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "postTitle": "First Post",
+      "postText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "dateCreated": "07/04/2001",
+      "isFave": false
+    },
+    {
+      "id": "3",
+      "postTitle": "Third Post",
+      "postText": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "dateCreated": "07/04/2001",
+      "isFave": false
+    },
+    {
+      "id": "5",
+      "postTitle": "Fifth Post",
+      "postText": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "dateCreated": "07/04/2001",
+      "isFave": false
+    },
+    {
+      "id": 2753,
+      "postTitle": "copper",
+      "postText": "is real",
+      "dateCreated": "3/31/2024",
+      "isFave": false
+    }
+  ]
+}
