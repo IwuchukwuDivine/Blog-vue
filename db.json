@@ -5,7 +5,7 @@
       "postTitle": "First Post",
       "postText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
       "dateCreated": "07/04/2001",
-      "isFave": false
+      "isFave": true
     },
     {
       "id": "3",
